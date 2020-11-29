@@ -3,7 +3,7 @@
 ## 회원수정
 
 ### UserUpdate.java 구성
-```
+```java
 package messenger;
 
 import java.awt.BorderLayout;
