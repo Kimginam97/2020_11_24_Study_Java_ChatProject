@@ -3,7 +3,7 @@
 ## 로그인
 
 ### Login.java 구성
-```
+```java
 package messenger;
 
 import java.awt.BorderLayout;
