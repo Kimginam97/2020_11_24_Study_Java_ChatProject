@@ -3,7 +3,7 @@
 ## 오라클 연결
 
 ### OracleDBConnector.java 구성
-```
+```java
 package messenger;
 
 import java.sql.Connection;
