@@ -3,7 +3,7 @@
 ## 메신저
 
 ### Join.java 구성
-```
+```java
 package messenger;
 
 import java.awt.BorderLayout;
