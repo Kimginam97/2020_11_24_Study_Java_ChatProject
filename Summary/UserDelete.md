@@ -3,7 +3,7 @@
 ## 회원탈퇴
 
 ### UserDelete.java 구성
-```
+```java
 package messenger;
 
 import java.awt.BorderLayout;
