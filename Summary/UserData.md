@@ -3,7 +3,7 @@
 ## 유저 엔티티
 
 ### UserData.java 구성
-```
+```java
 package messenger;
 
 
