@@ -3,7 +3,7 @@
 ## DB접근부분
 
 ### UserDao.java 구성
-```
+```java
 package messenger;
 
 import java.awt.EventQueue;
